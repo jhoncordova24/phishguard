@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets pesados
+ml/data/raw/*.csv
+ml/data/processed/*.csv
