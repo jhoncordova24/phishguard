@@ -1,0 +1,20 @@
+concepto,valor
+f1_test_random_forest,0.993370831659301
+f1_test_xgboost,0.9930674168592384
+delta_f1_rf_menos_xgb,0.0003034148000625736
+n_bootstrap,2000
+nivel_confianza,0.95
+ic_delta_f1_inferior,-0.0002967347724831065
+ic_delta_f1_superior,0.0009146839033823905
+paridad_estadistica,True
+mcnemar_b_rf_acierta_xgb_falla,6
+mcnemar_c_rf_falla_xgb_acierta,3
+mcnemar_exacta,True
+mcnemar_estadistico,3.0
+mcnemar_p_valor,0.5078125
+alfa,0.05
+mcnemar_significativo,False
+t_inf_media_ms_random_forest,17.698591800000003
+t_inf_media_ms_xgboost,0.4871688
+rama_decision,Rama 2: paridad estadística (el IC 95 % de ΔF1 contiene 0); desempata el menor T_inf medio.
+modelo_elegido,XGBoost

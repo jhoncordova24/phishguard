@@ -1,0 +1,5 @@
+﻿source,clase,registros_bien_formados,sin_esquema_total,sin_esquema_descartadas_si_drop,pct_descartadas_si_drop,politica_aplicada
+malicious_phish,legitima,428094,392725,392716,91.74,drop
+malicious_phish,phishing,94032,69257,69180,73.57,drop
+phiusiil,legitima,134850,0,0,0.0,drop
+phiusiil,phishing,100945,0,0,0.0,drop
