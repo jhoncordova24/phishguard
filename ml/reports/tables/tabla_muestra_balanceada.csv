@@ -1,0 +1,4 @@
+﻿clase,disponibles_tras_depuracion,en_muestra,disponibles_phiusiil,muestra_phiusiil,pct_muestra_phiusiil,disponibles_malicious_phish,muestra_malicious_phish,pct_muestra_malicious_phish
+legitima,170221,25000,134849,12500,50.0,35372,12500,50.0
+phishing,124636,25000,100053,12500,50.0,24583,12500,50.0
+total,294857,50000,234902,25000,50.0,59955,25000,50.0

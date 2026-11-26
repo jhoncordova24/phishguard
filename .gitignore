@@ -225,3 +225,10 @@ __marimo__/
 # Datasets pesados
 ml/data/raw/*.csv
 ml/data/processed/*.csv
+ml/_quick_run/
+
+# Corridas archivadas (ml/archive/iteracion_N/): se versionan tablas, figuras y
+# model_card; los datos pesados, el .joblib y el entorno quedan fuera.
+ml/archive/*/data/
+ml/archive/*/models/*.joblib
+ml/archive/*/reports/environment.json

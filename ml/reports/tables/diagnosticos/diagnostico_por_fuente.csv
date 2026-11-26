@@ -1,0 +1,3 @@
+source,n,n_phishing,n_legitima,f1_rf,exactitud_rf,f1_xgb,exactitud_xgb
+malicious_phish,4914,2449,2465,0.985794,0.985958,0.985991,0.986162
+phiusiil,5086,2551,2535,0.959188,0.959693,0.960016,0.960676

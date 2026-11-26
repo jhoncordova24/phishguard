@@ -1,0 +1,3 @@
+algoritmo,media_ms,mediana_ms,p95_ms,min_ms,max_ms,n_mediciones,n_calentamiento,umbral_ms,media_bajo_umbral,p95_bajo_umbral
+Random Forest,12.4189,11.8872,14.9631,11.2809,32.4515,1000,50,50.0,True,True
+XGBoost,0.4807,0.4698,0.5582,0.4283,0.8006,1000,50,50.0,True,True

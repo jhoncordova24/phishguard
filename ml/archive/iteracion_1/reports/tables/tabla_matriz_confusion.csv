@@ -1,0 +1,3 @@
+algoritmo,TP,TN,FP,FN
+Random Forest,4945,4989,11,55
+XGBoost,4942,4989,11,58

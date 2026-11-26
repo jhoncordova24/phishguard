@@ -1,0 +1,4 @@
+﻿fuente,url_legitimas,url_phishing,total,pct_legitimas,pct_phishing
+PhiUSIIL,134850,100945,235795,57.19,42.81
+Malicious Phish (benign + phishing),428103,94111,522214,81.98,18.02
+Consolidado (sin deduplicar),562953,195056,758009,74.27,25.73

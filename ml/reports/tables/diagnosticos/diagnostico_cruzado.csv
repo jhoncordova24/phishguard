@@ -1,0 +1,9 @@
+algoritmo,entrena_con,prueba_en,tipo,n_entrenamiento,n_prueba,TP,TN,FP,FN,exactitud,precision,sensibilidad,f1
+Random Forest,malicious_phish,malicious_phish,misma fuente,20086,4914,2431,2451,14,18,0.993488,0.994274,0.99265,0.993461
+Random Forest,malicious_phish,phiusiil,cruzado,20086,5086,2535,0,2535,16,0.498427,0.5,0.993728,0.665267
+Random Forest,phiusiil,malicious_phish,cruzado,19914,4914,2410,0,2465,39,0.490435,0.494359,0.984075,0.65811
+Random Forest,phiusiil,phiusiil,misma fuente,19914,5086,2406,2480,55,145,0.960676,0.977651,0.94316,0.960096
+XGBoost,malicious_phish,malicious_phish,misma fuente,20086,4914,2433,2454,11,16,0.994505,0.995499,0.993467,0.994482
+XGBoost,malicious_phish,phiusiil,cruzado,20086,5086,2528,0,2535,23,0.497051,0.499309,0.990984,0.66404
+XGBoost,phiusiil,malicious_phish,cruzado,19914,4914,2408,0,2465,41,0.490028,0.494151,0.983258,0.657744
+XGBoost,phiusiil,phiusiil,misma fuente,19914,5086,2403,2489,46,148,0.961856,0.981217,0.941984,0.9612

@@ -1,0 +1,3 @@
+algoritmo,n_prueba,exactitud,precision,sensibilidad,f1
+Random Forest,10000,0.9934,0.99778,0.989,0.993371
+XGBoost,10000,0.9931,0.997779,0.9884,0.993067

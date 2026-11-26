@@ -1,0 +1,8 @@
+﻿regla,descartados_phiusiil,descartados_malicious_phish,descartados_total,restantes_phiusiil,restantes_malicious_phish,restantes_legitima,restantes_phishing,restantes_total
+"1. Consolidar fuentes (fuera de estudio: defacement, malware, etiquetas no reconocidas)",0,128977,128977,235795,522214,562953,195056,758009
+"2. Normalizar (minúsculas, %xx, espacios)",0,0,0,235795,522214,562953,195056,758009
+3. Descartar nulos o vacíos,0,0,0,235795,522214,562953,195056,758009
+4a. Descartar malformadas (sin host reconocible),0,88,88,235795,522126,562944,194977,757921
+4b. URL sin esquema (política = drop),0,461896,461896,235795,60230,170228,125797,296025
+5a. Etiquetas contradictorias (se eliminan todas las copias),2,0,2,235793,60230,170227,125796,296023
+5b. Duplicados exactos (se conserva la primera aparición),891,275,1166,234902,59955,170221,124636,294857
